@@ -1,0 +1,8 @@
+frames/NestedFramesTests.class
+Alerts/AlertTests.class
+navigation/NavigationTests.class
+navigation/WindowTests.class
+wait/WaitTests.class
+cookies/CookiesTests.class
+javascript/JavaScriptTests.class
+frames/FrameTests.class

@@ -1,0 +1,17 @@
+pages/ContextMenuPage.class
+pages/NestedFramesPage.class
+pages/InfiniteScrollPage.class
+extentReport/ExtentReportListener.class
+pages/DynamicLoadingExample2Page.class
+pages/LargeAndDeepDomPage.class
+pages/FramesPage.class
+pages/MultipleWindowsPage.class
+pages/DynamicLoadingPage.class
+pages/DynamicLoadingExample1Page.class
+utils/WindowManager.class
+utils/EventReporter.class
+pages/AlertsPage.class
+pages/FileUploadPage.class
+utils/CookieManager.class
+pages/ModalPage.class
+pages/WysiwygEditorPage.class

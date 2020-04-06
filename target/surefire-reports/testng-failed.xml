@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Command line suite]">
+  <test thread-count="5" verbose="0" name="Command line test(failed)">
+    <classes>
+      <class name="Alerts.ContextMenuTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="goHome"/>
+          <include name="setUp"/>
+          <include name="testRightClick"/>
+        </methods>
+      </class> <!-- Alerts.ContextMenuTest -->
+      <class name="Alerts.FileUploadTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="testFileUpload"/>
+          <include name="goHome"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- Alerts.FileUploadTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->
